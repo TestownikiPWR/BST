@@ -1,0 +1,6 @@
+X0001
+Certyfikat SSL: (1)
+Poświadcza, że osoba fizyczna będąca właścicielem certyfikatu używa podanego w certyfikacie klucza publicznego
+Poświadcza, że serwer o podanej w certyfikacie nazwie domenowej używa podanego w certyfikacie klucza prywatnego
+Poświadcza, że dany klucz publiczny jest związany z określonym adresem IP witryny internetowej
+Poświadcza, że serwer o podanej w certyfikacie nazwie domenowej używa podanego w certyfikacie klucza publicznego

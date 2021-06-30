@@ -1,0 +1,6 @@
+X1000
+Trybem pracy DES w którym możliwe jest równoległe szyfrowanie wielu bloków jest tryb (1)
+Elektronicznej książki kodowej
+Wiązania bloków
+ze sprzężeniem zwrotnym
+Ze sprzężeniem zwrotnym wyjściowym

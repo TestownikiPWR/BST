@@ -1,0 +1,6 @@
+X1010
+Certyfikat serwera używany w SSL zawiera (2):
+adres domenowy serwera
+adres IP serwera
+adres domenowy wystawcy certyfikatu
+klucz jawny wystawcy certyfikatu

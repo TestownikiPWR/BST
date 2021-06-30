@@ -1,0 +1,6 @@
+X0100
+'Podpis cyfrowy' oparty na algorytmie symetrycznym zapewnia: (1)
+uwierzytelnienie źródła
+niezaprzeczalności
+integralność
+poufność

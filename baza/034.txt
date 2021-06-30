@@ -1,0 +1,6 @@
+X1000
+Po odszyfrowaniu odebranych danych algorytmem RSA swoim kluczem prywatnym użytkownika A otrzymano wiadomość: „Zakończyłem pracę nad projektem. Użytkownik B”. Użytkownik A może być pewny: (1)
+poufności wiadomości
+niezaprzeczalności
+tożsamości nadawcy
+integralności wiadomości

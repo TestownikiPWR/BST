@@ -1,0 +1,6 @@
+X0001
+Projekt TEMPEST zajmuje się (1):
+bezpieczeństwem aplikacji
+bezpieczeństwem protokołów routingu
+podsłuchiwaniem traktów światłowodowych
+emisją ujawniającą

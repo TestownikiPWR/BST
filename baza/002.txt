@@ -1,0 +1,6 @@
+X0101
+Algorytmy kryptograficzne asymetryczne to (2):
+Sha
+RSA
+Blowfish
+El-Gamal

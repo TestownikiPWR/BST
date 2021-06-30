@@ -1,0 +1,6 @@
+X0001
+W wyniku rozproszonego ataku DoS serwer przestał realizować żądania użytkowników. Naruszona została (1):
+Poufność
+Niezaprzeczalność
+Integralność
+Dostępność

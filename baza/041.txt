@@ -1,0 +1,6 @@
+X1100
+Etykietowanie danych („tajne”, „poufne”,itd.) jest wymagane na poziomach TCSEC: (2)
+A
+B
+C
+D

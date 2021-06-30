@@ -1,0 +1,6 @@
+X0100
+Zalecanym i najczęściej stosowanym trybem pracy DES jest tryb (1):
+Elektronicznej książki kodowej
+Wiązania bloków
+ze sprzężeniem zwrotnym
+Ze sprzężeniem zwrotnym wyjściowym

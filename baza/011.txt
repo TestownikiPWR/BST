@@ -1,0 +1,6 @@
+X0110
+Większość algorytmów symetrycznych bazuje na operacjach (2):
+matematycznych na dużych liczbach
+permutacji
+podstawienia
+odwracania funkcji liniowych

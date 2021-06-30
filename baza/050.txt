@@ -1,0 +1,6 @@
+X0010
+Długość klucza IDEA wynosi: (1)
+64 bity
+56 bitów
+128 bitów
+Max. 256 bitów

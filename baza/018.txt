@@ -1,0 +1,6 @@
+X0100
+W sieci zaufania PGP (Web of Trust) klucze publiczne są podpisywane przez (1):
+Właściciela certyfikatu
+‘Znajomych’ właściciela certyfikatu
+Organ wydający certyfikaty
+Serwer uwierzytelniający (np. RADIUS)

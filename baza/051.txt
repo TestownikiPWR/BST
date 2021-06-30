@@ -1,0 +1,6 @@
+X0001
+Każdy S-blok algorytmu DES ma: (1)
+4-bitowe wejście i 6-bitowe wyjście
+6-bitowe wejście i 6-bitowe wyjście
+4-bitowe wejście i 4-bitowe wyjście
+6-bitowe wejście i 4-bitowe wyjście

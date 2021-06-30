@@ -1,0 +1,6 @@
+X1010
+Szyfrowanie symetryczne w porównaniu z asymetrycznym (2):
+jest szybsze
+zapewnia wyższy poziom bezpieczeństwa
+jest łatwiejsze w realizacji sprzętowej
+wymaga rzadszej zmiany klucza szyfrującego

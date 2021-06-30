@@ -1,0 +1,6 @@
+X0100
+Trybem pracy algorytmu blokowego, w którym możliwe jest równoległe szyfrowanie wielu bloków jest tryb (1):
+ze sprzężeniem zwrotnym
+elektronicznej książki kodowej (ECB)
+ze sprzężeniem zwrotnym wyjściowym
+wiązania bloków (CBC)

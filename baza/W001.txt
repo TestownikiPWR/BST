@@ -1,0 +1,3 @@
+X1
+Pytanie otwarte: Zaszyfrować 8 za pomocą RSA z kluczem {3, 100}.
+12

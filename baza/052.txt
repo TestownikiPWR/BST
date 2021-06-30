@@ -1,0 +1,6 @@
+X1010
+Finalistami AES są: (2)
+RC6
+IDEA
+Rijndael
+Blowfish

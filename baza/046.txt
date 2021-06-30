@@ -1,0 +1,6 @@
+X0001
+‘Metoda brutalna’ pozwala na odkrycie treści zaszyfrowanego komunikatu w wyniku (1):
+Analizy statystycznej
+Kradzieży klucza
+Zmuszenia użytkownika siłą do wyjawienia klucza
+Sprawdzenia wszystkich możliwych klucz

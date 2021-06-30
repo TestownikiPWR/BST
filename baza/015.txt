@@ -1,0 +1,6 @@
+X0001
+Algorytm Diffiego-Hellmana służy do (1):
+podpisywania danych
+wygenerowania i bezpiecznej dystrybucji klucza symetrycznego
+generowania kluczy jawny-prywatny
+bezpiecznej dystrybucji kluczy prywatnych

@@ -1,0 +1,6 @@
+X1100
+Algorytmami blokowymi są (2):
+RSA
+DES
+RC4
+Des w trybie ze sprzężeniem zwrotnym

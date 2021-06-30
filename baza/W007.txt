@@ -1,0 +1,3 @@
+X1
+Jaki algorytm jest standardem w algorytmach symetrycznych?
+AES

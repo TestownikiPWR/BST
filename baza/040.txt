@@ -1,0 +1,6 @@
+X1001
+Zadaniem zapory ogniowej jest blokowanie wszystkich pakietów o rozmiarze większym od 10 KB oraz wszystkich żądań nawiązania połączenia TCP. Listami ACL realizującymi to zadanie są: (2)
+blokuj pakiety większe od 10 KB blokuj pakiety z bitem SYN
+przepuść pakiety mniejsze od 10 KB blokuj pakiety z bitem SYN
+blokuj pakiety z bitem SYN przepuść pakiety mniejsze od 10 KB
+blokuj pakiety z bitem SYN blokuj pakiety większe od 10 KB

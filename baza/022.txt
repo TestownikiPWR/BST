@@ -1,0 +1,6 @@
+X0100
+Certyfikaty kluczy jawnych rozwiązują problem (1):
+Zapewnienia integralności danych
+Uwierzytelniania klucza
+Dystrybucji klucza w szyfrowaniu symetrycznym
+Kontroli dostępu

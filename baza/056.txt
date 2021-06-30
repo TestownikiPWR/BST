@@ -1,0 +1,6 @@
+X1100
+Atakiem pasywnym w sieci jest (2):
+Przechwytywanie i odczytywanie zawartości szyfrowanych pakietów
+Przechwytywanie i odczytywanie zawartości nie szyfrowanych pakietów
+Wysyłanie spreparowanych pakietów
+Przechwytywanie pakietów i wielokrotne wysyłanie ich do adresata

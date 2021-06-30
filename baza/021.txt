@@ -1,0 +1,6 @@
+X0011
+Algorytmy kryptograficzne oparte na sieciach Feistela to (2):
+SHA
+RSA
+DES
+RC5

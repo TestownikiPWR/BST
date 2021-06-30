@@ -1,0 +1,6 @@
+X0010
+Na czym polega routing źródłowy (1):
+Wszystkie pakiety pochodzą z tego samego źródła
+Wszystkie trasy w sieci są wyznaczane przez jeden węzeł źródłowy
+Węzeł źródłowy, a nie routery, określa trasę dla pakietu
+Wszystkie pakiety z tego samego źródła poruszają się tą samą trasą

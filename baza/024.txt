@@ -1,0 +1,6 @@
+X1010
+atakami DoS opartymi na handshakeingu TCP są (2):
+Land.c
+Smurf
+SYN Flood
+Ping od Death

@@ -1,0 +1,6 @@
+X0110
+W algorytmach symetrycznych można spotkać operacje (2):
+modulo
+XOR
+przesunięcie cykliczne
+potęgowanie

@@ -1,0 +1,6 @@
+X0110
+Wynikiem zaszyfrowania tekstu REKSIO techniką transpozycyjną może być (2):
+JANIAK
+OISERK
+EIKORS
+KRYSIAK

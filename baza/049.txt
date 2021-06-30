@@ -1,0 +1,6 @@
+X1000
+Rozmiar bloku DES wynosi: (1)
+64 bity
+56 bitów
+64 bajty
+56 bajtów

@@ -1,0 +1,6 @@
+X0001
+Exploit to program który (1):
+umożliwia łamanie haseł
+powiela się w systemie i blokuje zasoby
+umożliwia łamanie szyfrów symetrycznych
+wykorzystuje znane luki w aplikacji

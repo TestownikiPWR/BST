@@ -1,0 +1,6 @@
+X0100
+aby złamać DES metodą brutalną należy sprawdzić średnio (1):
+2^128 kluczy
+2^55
+55!
+56^2

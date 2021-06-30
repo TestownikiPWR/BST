@@ -1,0 +1,6 @@
+X1000
+Kryptoanaliza różnicowa jest wykorzystywana do ataku na (1):
+Algorytmy kryptograficzne symetryczne
+Funkcje skrótu
+Algorytmy kryptograficzne asymetryczne
+Kryptograficzne sumy kontrolne

@@ -1,0 +1,6 @@
+X0010
+Klucz dla algorytmu RSA możemy wygenerować z liczb (p,q) (1):
+17 i 8
+21 i 3
+31 i 5
+11 i 27

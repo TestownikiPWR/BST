@@ -1,0 +1,6 @@
+X0011
+Algorytmami strumieniowymi są: (2)
+IDEA
+DES
+RC4
+DES w trybie ze sprzężeniem zwrotnym

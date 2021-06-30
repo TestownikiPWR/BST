@@ -1,0 +1,6 @@
+X0010
+„Potwierdzenie odbioru” w przesyłce poczty tradycyjnej rozwiązuje problem: (1)
+nienaruszalności
+uwierzytelnienia
+niezaprzeczalności
+poufności

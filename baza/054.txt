@@ -1,0 +1,6 @@
+X1100
+RC5 (2):
+Jest algorytmem blokowym
+Operuje na połówkach bloku
+Operuje na ćwiartkach bloku
+Umożliwia zastosowanie klucza o długości do 128 bitów

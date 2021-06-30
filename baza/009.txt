@@ -1,0 +1,6 @@
+X1000
+Kiedy podsłuchiwanie ramek (sniffing) jest możliwe w domenie kolizyjnej (1):
+Zawsze
+Nigdy
+Tylko w wyniku ataku ARP poissoning
+Tylko w wyniku ataku DoS

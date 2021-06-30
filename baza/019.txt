@@ -1,0 +1,6 @@
+X0011
+Certyfikat klucza publicznego trafia na listę CRL w przypadku (2):
+Ujawnienia klucza publicznego
+Wygaśnięcia czasu ważności certyfikatu
+Utraty klucza prywatnego
+Zastąpienia ważnego jeszcze certyfikatu nowym

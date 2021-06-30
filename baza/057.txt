@@ -1,0 +1,6 @@
+X0001
+Autoryzacja to (1):
+Udowodnienie tożsamości w komunikacji użytkownik - użytkownik
+Udowodnienie tożsamości w komunikacji klient serwer- użytkownik
+Operacja zgłaszania się ( autoryzowania) użytkownika w systemie
+Nadawanie uprawnień do korzystania z określonych zasobów

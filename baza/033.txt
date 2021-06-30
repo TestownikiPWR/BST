@@ -1,0 +1,6 @@
+X0010
+Certyfikaty klucza publicznego są podpisywane przez (1):
+właściciela certyfikatu
+znajomych właściciela certyfikatu
+organ wydający certyfikaty
+serwer uwierzytelniający np RADIUS

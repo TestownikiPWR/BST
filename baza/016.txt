@@ -1,0 +1,6 @@
+X0101
+Protokoły związane z dystrybucją i weryfikacją certyfikatów cyfrowych to (2):
+SSL
+OCSP
+X.509
+CMP

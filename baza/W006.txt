@@ -1,0 +1,3 @@
+X1
+Co to jest lista TSL ?
+Jest to zaufana lista zawierająca informacje dotyczące kwalifikowanych dostawców usług zaufania, którzy są objęci nadzorem przez Polskę, wraz z informacjami dotyczącymi świadczonych przez nich kwalifikowanych usług zaufania.

@@ -1,0 +1,6 @@
+X1001
+Polityka Bezpieczeństwa (2):
+jest dokumentem definiującym strategię bezpieczeństwa firmy/instytucji
+wskazuje konkretne narzędzi, które ma zostać zastosowane w systemie bezpieczeństwa, jednak nie opisuje jego konfiguracji
+jest dokumentem tajnym
+powinna być jak najczęściej uaktualniana

@@ -1,0 +1,6 @@
+X0010
+Pakiet pasuje do 4 reguł filtrowania, która z nich zostanie zastosowana (1):
+Reguła o największej dzikiej masce
+Reguła o najszerszej dzikiej masce
+Reguła pierwsza wg.kolejności na liście ACL
+Reguła domyślna

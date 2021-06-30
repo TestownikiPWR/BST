@@ -1,0 +1,6 @@
+X1100
+Atak DNS Poisoning wykorzystuje: (2)
+zapytanie rekurencyjne DNS
+zapytanie iteracyjne DNS
+słabość zabezpieczeń DNSSEC
+mechanizm transferu stref

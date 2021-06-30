@@ -1,0 +1,6 @@
+X0100
+W celu zapewnienia poufności w systemie kryptograficznym asymetrycznym należy (1):
+wykonać szyfrowanie z kluczem jawnym nadawcy
+wykonać szyfrowanie z kluczem jawnym odbiorcy
+wykonać szyfrowanie z kluczem prywatnym nadawcy
+wykonać szyfrowanie z kluczem prywatnym odbiorcy

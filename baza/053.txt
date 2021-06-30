@@ -1,0 +1,6 @@
+X0110
+Liczba rund AES zależy od: (2)
+Liczby bijekcji w każdej rundzie
+Długości bloku
+Długości klucza
+Wielkości macierzy stan

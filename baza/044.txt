@@ -1,0 +1,6 @@
+X0100
+Na złamanie szyfru wyspecjalizowany klaster serwerów potrzebowałby 100 tysięcy lat. Schemat szyfrujący jest: (1)
+Względnie bezpieczny
+Obliczeniowo bezpieczny
+Niebezpieczny
+Bezwarunkowo bezpieczny

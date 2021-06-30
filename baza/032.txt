@@ -1,0 +1,6 @@
+X0010
+Bezpieczny odpowiednik TELNETU (1):
+PGP
+SSL
+SSH
+TLS

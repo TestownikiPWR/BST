@@ -1,0 +1,6 @@
+X0100
+Skanowanie portów może być wykryte przez: (1)
+filtr bezstanowy
+filtr z badaniem stanów
+„czystą” bramę warstwy aplikacji
+„czysty” serwer proxy

@@ -1,0 +1,6 @@
+X1100
+Funkcje hashujące służą do (2):
+Generowania podpisów cyfrowych
+kontroli integralności
+podniesienia poziomu poufności
+bezpiecznej dystrybucji kluczy

@@ -1,0 +1,6 @@
+X0010
+Kryptoanalityk przygotował listę tekstów jawnych a następnie podstępem skłonił jednego z właściciel tajnego klucza do wygenerowania i przekazania kryptogramów tych wiadomości. Najprawdopodobniej atak, jaki kryptoanalityk może teraz przeprowadzić to atak typu: (1)
+ciphertext-only
+Plaintext
+Chosen plaintext
+Chosen ciphertex

@@ -1,0 +1,6 @@
+X1000
+Podczas transmisji danych przez sieć komputerową kilka bitów uległo przekłamaniu. Naruszona została (1):
+Integralność
+Dostępność
+Poufność
+Niezaprzeczalność

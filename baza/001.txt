@@ -1,0 +1,8 @@
+X110011
+Algorytmy kryptograficzne symetryczne to (4):
+IDEA
+3DES
+LUC
+MD5
+RC6
+RC4

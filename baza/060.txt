@@ -1,0 +1,6 @@
+X0011
+Serwer proxy ( czysty) (2):
+Filtruje pakiety na podstawie adr.Ip
+Filtruje pakiety na podstawie numeru portu
+Jeden proxy obsługuje tylko jedną usługę sieciową ( np.FTP)
+Pośredniczy w komunikacji pomiędzy klientem a serwerem

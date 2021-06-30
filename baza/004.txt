@@ -1,0 +1,6 @@
+X0010
+W celu zapewnienia uwierzytelniania w systemie kryptograficznym asymetrycznym należy (1):
+Wykonać szyfrowanie z kluczem jawnym nadawcy
+Wykonać szyfrowanie z kluczem jawnym odbiorcy
+Wykonać szyfrowanie z kluczem prywatnym nadawcy
+Wykonać szyfrowanie z kluczem prywatnym odbiorcy

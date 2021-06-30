@@ -1,0 +1,6 @@
+X0010
+Klucz algorytmu szyfrującego składa się z dwóch liter alfabetu angielskiego(26 znaków) oraz trzech cyfr. Liczba różnych kluczy wynosi (1) (LICZY SIĘ 26^2*10^3):
+82
+100 000
+676 000
+52 000

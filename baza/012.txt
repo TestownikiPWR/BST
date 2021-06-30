@@ -1,0 +1,6 @@
+X0010
+Algorytm kryptograficzny obliczeniowo bezpieczny może być złamany metodą brutalną (1):
+w czasie krótszym niż 50 dni
+w czasie krótszym niż 50 minut
+w czasie dłuższym niż 50 lat
+nigdy

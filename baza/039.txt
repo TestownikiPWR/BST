@@ -1,0 +1,6 @@
+X1100
+Plik hosts zawiera: (2)
+listę zaufanych serwerów DNS
+listę hostów, z którymi można nawiązać połączenie
+listę zakupów
+listę hostów zaufanych serwerów PKP
