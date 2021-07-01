@@ -1,0 +1,3 @@
+X1
+Pytanie otwarte: Na ile bloków będzie podzielona wiadomość o długości 1500 bitów przy szyfrowaniu algorytmem RSA kluczem { 27363, 391}?
+188

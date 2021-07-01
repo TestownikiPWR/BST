@@ -1,0 +1,3 @@
+X1
+Pytanie otwarte: Obliczyć wynik operacji bitowej 25 XOR 10
+19
