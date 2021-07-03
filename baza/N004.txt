@@ -1,0 +1,3 @@
+X1
+Pytanie otwarte: Zaszyfrować swoje nazwisko szyfrem Cezara z kluczem 2. Zakładamy, że Twoje nazwisko to Niemczyk i używamy alfabetu angielskiego.
+PKGOEBAM

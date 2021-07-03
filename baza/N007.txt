@@ -1,0 +1,3 @@
+X1
+Ułożyć listę ACL w notacji IP (z „dzikimi maskami”), spełniającą następujące wymagania: 1. dopuszczamy komunikację z hostami o adresach 10.10.0.0 ÷ 10.10.255.255 z wyłączeniem podsieci 10.10.10.0 ÷ 10.10.10.255 oraz adresu 10.10.17.136 2. blokujemy wszelką inną komunikację
+[img]N007.png[/img]

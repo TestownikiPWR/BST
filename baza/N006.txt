@@ -1,0 +1,3 @@
+X1
+Zaszyfrować wartość 85 za pomocą algorytmu RSA z kluczem (2,21):
+1

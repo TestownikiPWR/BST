@@ -1,0 +1,6 @@
+X0010
+W schemacie kryptograficznym nazywanym 'hybrydowym':
+Wszystkie przesłane informacje są zaszyfrowane algorytmem symetrycznym
+Wszystkie przesłane informacje są zaszyfrowane algorytmem asymetrycznym
+Dane użytkownika są zaszyfrowane algorytmem symetrycznym a hasła asymetrycznym
+Dane użytkownika są hashowane i nie szyfrowane a hasła są szyfrowane algorytmem symetrycznym
